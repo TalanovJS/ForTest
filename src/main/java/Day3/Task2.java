@@ -26,5 +26,6 @@ public class Task2 {
                 System.out.println(res);
             }
         }
+        scanner.close();
     }
 }
