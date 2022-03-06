@@ -17,5 +17,6 @@ public class Task3 {
             y = 420;
         }
         System.out.println(y);
+        scanner.close();
     }
 }

@@ -29,5 +29,6 @@ public class Task2 {
                 System.out.println("Вывод чисел: " + i);
             }
         }
+        scanner.close();
     }
 }

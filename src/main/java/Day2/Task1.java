@@ -22,5 +22,6 @@ public class Task1 {
         } else {
             System.out.println("Ошибка ввода");
         }
+        s.close();
     }
 }
