@@ -12,6 +12,7 @@ package Day4;
     е) Сумме всех элементов массива
  */
 
+import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
